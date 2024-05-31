@@ -1,0 +1,137 @@
+{
+ "Url = [ Colors ]": "https://cdn.discordapp.com/attachments/1234366687869145139/1240052946465722378/Neon_Store2.png?ex=664528cd&is=6643d74d&hm=6747675fa1d8c34935715f35f96ed4691b4d498221d1190111ed1285bfa786c9&",
+ "Channel = [ Colors ]": "1219490102787571722",
+ "setevaluation_891431275586539640": "1194904316843151370",
+ "setChannel_891431275586539640": "1219490102787571722",
+ "Replys_خط": [
+  {
+   "Word": "خط",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1218976456756039738/Toila_1920_x_200_.png?ex=66099f4a&is=65f72a4a&hm=3bac1d2f81bcc7f85dcb15e47d2adde9007590954a5b43e9d0d5ed276b28499b&"
+  }
+ ],
+ "Replys_bots321123": [
+  {
+   "Word": "bots321123",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1219274635070275694/Toila_6.png?ex=660ab4fe&is=65f83ffe&hm=89c9b79cf3c04ae44fa4a0ee42caa493bcebd57e23b0f974263038d671d395af&"
+  }
+ ],
+ "Replys_nitro321123": [
+  {
+   "Word": "nitro321123",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1218999879142211677/8.png?ex=6609b51b&is=65f7401b&hm=af7f3c3ef36a959920ce1ef0cf21a5d6e3e7f5f8c4500de9f63bd16699e881a0&"
+  }
+ ],
+ "Replys_boost321123": [
+  {
+   "Word": "boost321123",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1219336473975980142/Toila_7.png?ex=660aee95&is=65f87995&hm=bc5c1bcea6eb3c092988d01c76d8ba19bfbe792fadee6ea052bc8d2720babc4b&"
+  }
+ ],
+ "Replys_design321123": [
+  {
+   "Word": "design321123",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1219788442116816986/Toila_8.png?ex=660c9383&is=65fa1e83&hm=b868f1ada2bcd5cbb3dd8755223158357cd5f981d4daa41dcb58001092f1cdfa&"
+  }
+ ],
+ "Replys_netflix321123": [
+  {
+   "Word": "netflix321123",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1218999879502663700/9.png?ex=6609b51b&is=65f7401b&hm=addd1c18d6f6fc44b7c459859ce665240ee45d48849045e5fd667f33d402845c&"
+  }
+ ],
+ "Replys_vip321123": [
+  {
+   "Word": "vip321123",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1218999878349230190/6.png?ex=6609b51a&is=65f7401a&hm=ebd41b0f17abc49a96eb247ad1d707f00fa521d259ec89e87dbd105ac77eb41a&"
+  }
+ ],
+ "Replys_prem321123": [
+  {
+   "Word": "prem321123",
+   "Reply": "https://media.discordapp.net/attachments/1186287395637825647/1218999877946572800/5.png?ex=6609b51a&is=65f7401a&hm=41a042e2ab0c827cd551b8f2d8b5939af0be907308921bf4c54d5804d2a7be25&"
+  }
+ ],
+ "status_891431275586539640": {
+  "name": "Made By : Neon Store",
+  "type": "STREAMING",
+  "url": "https://www.twitch.tv/fba01"
+ },
+ "Guild_Color = 891431275586539640": "#005ee4",
+ "Line": "https://cdn.discordapp.com/attachments/1241708417266090096/1241708586288025710/f7d2d7d194b7cbcf.png?ex=664b2ebc&is=6649dd3c&hm=5b0b4ebabf7535277cd8d760c5a1da137ebc105fa9332dd0586689c2bf595f99&",
+ "serverChannel": "1221651385297403925",
+ "avatarChannel": "1221651386773541015",
+ "shopChannel": "1221651387314602015",
+ "RoomInfo_1205546292718211133": {
+  "Channel_Id": "1205546292718211133",
+  "Emoji1_Id": "<a:Wow:1217596398262812682>"
+ },
+ "Channels": [
+  "1205546292718211133",
+  "1195372774101893120",
+  "1195372768879988848"
+ ],
+ "Channel = [1219418152568360960]": {
+  "type": "GUILD_TEXT",
+  "guild": "1219418152568360960",
+  "guildId": "1219418152568360960",
+  "parentId": "1219418165243543552",
+  "permissionOverwrites": [
+   "1219418177830912101",
+   "1219418152568360960"
+  ],
+  "messages": [
+   "1229562638493814857",
+   "1229562657376571463",
+   "1229562658680995880",
+   "1229562822032232548",
+   "1229562857486811146",
+   "1229562858304442379",
+   "1229565213452402735",
+   "1229565258440380427",
+   "1229565287456575579"
+  ],
+  "threads": [],
+  "nsfw": false,
+  "id": "1219418182415290378",
+  "flags": 0,
+  "name": "🌹・𝑾𝑬𝑳𝑪𝑶𝑴𝑬",
+  "rawPosition": 0,
+  "topic": null,
+  "lastMessageId": "1229565287456575579",
+  "rateLimitPerUser": 0,
+  "createdTimestamp": 1710802350382
+ },
+ "Cat = [1219418152568360960]": "1219418182415290378",
+ "Image = [1219418152568360960]": "https://media.discordapp.net/attachments/1182654738391638097/1187665028518793266/banner.png?ex=662b5e40&is=6618e940&hm=e9439241784843f42243087245fd9a8f19b3a17fbce7c8d1f257c49067849997&=&format=webp&quality=lossless&width=400&height=227",
+ "cut": "https://media.discordapp.net/attachments/1219418182415290378/1229566640996352020/14e52a94554ed08a8ab0b4dc4d0bea46.png?ex=6630262b&is=661db12b&hm=4eb5a63bd4d52c9f82b3ec56983f1328ebbddda5f87c53a7d8a07a32f4dad7a8&=&format=webp&quality=lossless",
+ "chat-cuts_1219418152568360960": "1219418182415290378",
+ "Allow - Command cut = [ 1219418152568360960 ]": "1219418167244357732",
+ "status_1195367018703097876": {
+  "name": "Neon Store",
+  "type": "STREAMING",
+  "url": "https://www.twitch.tv/fba01"
+ },
+ "setevaluation_1195367018703097876": "1233843857339318447",
+ "Replys_stc pay": [
+  {
+   "Word": "stc pay",
+   "Reply": "0536583631"
+  }
+ ],
+ "Replys_بنك": [
+  {
+   "Word": "بنك",
+   "Reply": "**الاسم : فهد فيصل \n\n\n525000010006080698708\n\n\nSA58 8000 0525 6080 1069 8708**"
+  }
+ ],
+ "RoomInfo_1195372768879988848": {
+  "Channel_Id": "1195372768879988848",
+  "Emoji1_Id": "<a:1001806903208325171:1204410822428856391>"
+ },
+ "RoomInfo_1234366687869145139": {
+  "Channel_Id": "1234366687869145139",
+  "Emoji1_Id": "",
+  "Emoji2_Id": "<a:1001806903208325171:1204410822428856391>"
+ },
+ "Voice_1235585745964765274": "1233410792548859955"
+}
